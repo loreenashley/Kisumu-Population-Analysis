@@ -1,0 +1,7 @@
+Title: Kisumu Population Growth Dataset
+Location: Kisumu, Kenya
+Years Covered: 2009–2025
+Description: Population growth trends based on census and projections
+Sources: KNBS, World Bank
+Author: Loreen Ashley Akinyi Ongwena
+License: Open use for educational and research purposes
