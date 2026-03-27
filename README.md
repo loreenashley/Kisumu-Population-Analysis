@@ -13,7 +13,7 @@
 Kisumu, Kenya
 
 ## Data Sources
-- Kenya NAtional Bureau of Statistic (KNBS)
+- Kenya National Bureau of Statistics (KNBS)
 - World Bank (Estimates)
 
   ## Updates
