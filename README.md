@@ -1,20 +1,28 @@
-# Kisumu-Population-Analysis
-</> Markdown
--Business planning
--Urban development insights
--Transport and service expansion
+# 🌍 Kisumu Population Analysis
 
-## Project Structure
--data.csv →Raw dataset
--metadata.txt → Data description
--analysis.xlsx → Processed analysis
+## 📊 Overview
+This project tracks population growth in **Kisumu, Kenya** over time.
 
-## Location
-Kisumu, Kenya
 
-## Data Sources
-- Kenya National Bureau of Statistics (KNBS)
-- World Bank (Estimates)
+## 📈 Sample Data
 
-  ## Updates
-  This dataset will be updated periodically as new data becomes available.
+| Year | Population | Source |
+|------|-----------|--------|
+| 2009 | 968,909   | KNBS   |
+| 2019 | 1,155,574 | KNBS   |
+| 2025 | 1,300,000 | Estimate |
+
+
+## 🎯 Purpose
+- Business planning  
+- Urban development  
+- Transport optimization  
+
+
+## 📁 Files
+- `data.csv` → Raw data  
+- `metadata.txt` → Description  
+
+
+## 🔄 Updates
+Updated as new data becomes available.
